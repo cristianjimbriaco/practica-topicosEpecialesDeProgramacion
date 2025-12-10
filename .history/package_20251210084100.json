@@ -1,0 +1,22 @@
+{
+  "name": "practicadetep",
+  "version": "1.0.0",
+  "description": "descripcion",
+  "main": "index.js",
+  "scripts": {
+    "test": "nose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "despues lo pongo"
+  },
+  "keywords": [
+    "ok"
+  ],
+  "author": "yo",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.2.1"
+  }
+}

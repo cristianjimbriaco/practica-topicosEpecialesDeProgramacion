@@ -1,0 +1,24 @@
+{
+  "name": "practicadetep",
+  "version": "1.0.0",
+  "description": "descripcion",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": " node src/index.js ",
+    "test": "nose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cristianjimbriaco/practica-topicosEpecialesDeProgramacion.git"
+  },
+  "keywords": [
+    "ok"
+  ],
+  "author": "Cristian Jimenez",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.2.1"
+  }
+}
